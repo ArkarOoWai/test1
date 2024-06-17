@@ -1,0 +1,5 @@
+user\repository\UserdbRepository.class
+user\model\UserBean.class
+user\controller\UserController.class
+user\model\LoginBean.class
+user\repository\ConnectionClass.class
